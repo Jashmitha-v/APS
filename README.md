@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Jashmitha-v/APS/tree/master/0075-sort-colors) |
 | [0239-sliding-window-maximum](https://github.com/Jashmitha-v/APS/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/Jashmitha-v/APS/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/Jashmitha-v/APS/tree/master/0622-design-circular-queue) |
@@ -149,4 +150,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Jashmitha-v/APS/tree/master/0021-merge-two-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Jashmitha-v/APS/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Jashmitha-v/APS/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Jashmitha-v/APS/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Jashmitha-v/APS/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
