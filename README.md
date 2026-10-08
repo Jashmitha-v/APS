@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Jashmitha-v/APS/tree/master/0075-sort-colors) |
 | [0219-contains-duplicate-ii](https://github.com/Jashmitha-v/APS/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Jashmitha-v/APS/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/Jashmitha-v/APS/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Jashmitha-v/APS/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/Jashmitha-v/APS/tree/master/0622-design-circular-queue) |
 | [0735-asteroid-collision](https://github.com/Jashmitha-v/APS/tree/master/0735-asteroid-collision) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Jashmitha-v/APS/tree/master/0075-sort-colors) |
 | [0234-palindrome-linked-list](https://github.com/Jashmitha-v/APS/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Jashmitha-v/APS/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
