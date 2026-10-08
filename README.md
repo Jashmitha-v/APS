@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Jashmitha-v/APS/tree/master/0075-sort-colors) |
+| [0219-contains-duplicate-ii](https://github.com/Jashmitha-v/APS/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Jashmitha-v/APS/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/Jashmitha-v/APS/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/Jashmitha-v/APS/tree/master/0622-design-circular-queue) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Jashmitha-v/APS/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/Jashmitha-v/APS/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Jashmitha-v/APS/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Jashmitha-v/APS/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
