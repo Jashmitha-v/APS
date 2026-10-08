@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Jashmitha-v/APS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Jashmitha-v/APS/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Jashmitha-v/APS/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/Jashmitha-v/APS/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Jashmitha-v/APS/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Jashmitha-v/APS/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Jashmitha-v/APS/tree/master/0739-daily-temperatures) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Jashmitha-v/APS/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/Jashmitha-v/APS/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/Jashmitha-v/APS/tree/master/0622-design-circular-queue) |
 ## Depth-First Search
 |  |
@@ -157,10 +159,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Jashmitha-v/APS/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/Jashmitha-v/APS/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Jashmitha-v/APS/tree/master/0075-sort-colors) |
+| [0234-palindrome-linked-list](https://github.com/Jashmitha-v/APS/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
 | ------- |
